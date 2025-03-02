@@ -1,0 +1,6 @@
+@FoodDelivery.WebAPI_HostAddress = http://localhost:5149
+
+GET {{FoodDelivery.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
