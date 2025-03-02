@@ -453,9 +453,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP.NET Core Apps\\Projects\\FoodDeliveryApp\\FoodDelivery.WebAPI\\FoodDelivery.WebAPI.csproj",
-      "projectName": "FoodDelivery.WebAPI",
-      "projectPath": "D:\\ASP.NET Core Apps\\Projects\\FoodDeliveryApp\\FoodDelivery.WebAPI\\FoodDelivery.WebAPI.csproj",
+      "projectUniqueName": "D:\\ASP.NET Core Apps\\Projects\\FoodDeliveryApp\\FoodDelivery.WebAPI\\FoodDelivery.WebAPI.Main.csproj",
+      "projectName": "FoodDelivery.WebAPI.Main",
+      "projectPath": "D:\\ASP.NET Core Apps\\Projects\\FoodDeliveryApp\\FoodDelivery.WebAPI\\FoodDelivery.WebAPI.Main.csproj",
       "packagesPath": "C:\\Users\\Imshubhamlack\\.nuget\\packages\\",
       "outputPath": "D:\\ASP.NET Core Apps\\Projects\\FoodDeliveryApp\\FoodDelivery.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
